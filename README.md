@@ -1,1 +1,1 @@
-# plot1.R
+# course project 1
